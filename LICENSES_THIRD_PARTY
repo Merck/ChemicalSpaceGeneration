@@ -1,0 +1,15 @@
+--------------------------------------------------
+Third party dependencies listed by License type
+[Format: name (Python module) - URL]
+--------------------------------------------------
+
+OSI Approved (new BSD)
+* scikit-learn (scikit-learn) - https://github.com/scikit-learn/scikit-learn/blob/bb997dc5e3fd41e4ac3e7af01511d64abb162fed/COPYING
+
+BSD 3-Clause License
+* Pandas (pandas) - https://github.com/pandas-dev/pandas/blob/3cf204a4336ade29d2a611c6bca8328a8319b5d3/AUTHORS.md
+* HDBSCAN (hdbscan) - https://github.com/scikit-learn-contrib/hdbscan/blob/master/LICENSE* RDKit (rdkit) - https://github.com/rdkit/rdkit/blob/48d52da39376fcf87679a3c7a66f0a18b3929302/license.txt
+
+Python Software Foundation License (BSD)
+* Matplotlib (matplotlib) - https://matplotlib.org/users/license.html
+

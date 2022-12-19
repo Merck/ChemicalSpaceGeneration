@@ -1,0 +1,15 @@
+name: ChemSpaceGen
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - hdbscan=0.8.26=py36h785e9b2_1
+  - matplotlib-base=3.3.4=py36h62a2d02_0
+  - numpy=1.18.1=py36h4f9e942_0
+  - numpy-base=1.18.1=py36hde5b4d6_1
+  - pandas=1.0.3=py36h0573a6f_0
+  - python=3.6.10=h7579374_2
+  - rdkit=2020.09.3=py36hb039eae_0
+  - scikit-learn=0.22.1=py36hd81dba3_0
+  - scipy=1.5.4
